@@ -1,5 +1,4 @@
-[index.html](https://github.com/user-attachments/files/27559557/index.html)
-# Jairo-Lopez<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
